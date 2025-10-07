@@ -1,0 +1,14 @@
+# Archivos y carpetas que no deben subirse al repositorio
+/configuration.php
+/installation/
+/cache/
+/logs/
+/tmp/
+/administrator/logs/
+/administrator/cache/
+.DS_Store
+Thumbs.db
+.idea/
+/node_modules/
+/vendor/
+.env
